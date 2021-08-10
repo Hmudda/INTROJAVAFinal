@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment10.params=
+comment10.target=void\ playLoop()
+comment11.params=
+comment11.target=void\ gameOver()
+comment2.params=
+comment2.target=Points\ getPoints()
+comment3.params=
+comment3.target=Healthbar\ getHealth()
+comment4.params=
+comment4.target=FireballCounter\ getFireballCounter()
+comment5.params=start\ end
+comment5.target=int\ getRandomNumber(int,\ int)
+comment6.params=num
+comment6.target=void\ addGoombas(int)
+comment7.params=
+comment7.target=void\ nextLevel()
+comment8.params=
+comment8.target=int\ getGoombaCount()
+comment9.params=num
+comment9.target=void\ setGoombaCount(int)
+numComments=12
