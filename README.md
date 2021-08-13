@@ -1,6 +1,11 @@
 Super Mario Bros Recreation!!!!!
 
 
+
+
+<img src="images/game.png" width="800px" />
+
+
 HOW TO USE:
 1. Clone Project to an empty folder
 2. Make sure Java is up to date.
