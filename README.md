@@ -3,7 +3,7 @@ Super Mario Bros Recreation!!!!!
 
 
 
-<img src="images/game.png" width="800px" />
+<img src="images/Laptop.png" width="800px" />
 
 
 HOW TO USE:
